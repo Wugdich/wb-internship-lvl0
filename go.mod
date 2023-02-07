@@ -1,3 +1,3 @@
-module github.com/Wugdich/wb-internship-lvl0
+module github.com/Wugdich/wugdsrv
 
 go 1.19
